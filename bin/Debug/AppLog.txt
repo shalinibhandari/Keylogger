@@ -1,0 +1,13 @@
+[27.06.2022 19:46:17]
+Hook started... Timer started
+
+[27.06.2022 19:46:47]
+File creation was not successful. Keylog '[N][O][P][A][S][S][W][R][O][D][S][Enter]
+[H][O][S][H][E][B][E][Enter]
+[D1][D2][D1][D3][Space][Right Shift][D2][D3][D2][D4][D1][D5][D2][D4][/Right Shift]'
+
+[27.06.2022 19:47:17]
+File creation was not successful. Keylog '[N][O][P][A][S][S][W][R][O][D][S][Enter]
+[H][O][S][H][E][B][E][Enter]
+[D1][D2][D1][D3][Space][Right Shift][D2][D3][D2][D4][D1][D5][D2][D4][/Right Shift]'
+
